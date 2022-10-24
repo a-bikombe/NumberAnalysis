@@ -10,14 +10,6 @@ Performs operations on numbers from the text file numbers.txt.
 
 ## Getting Started
 
-### Dependencies
-
-- Windows 10
-
-### Setup
-
-* Deployment: CLI
-
 ## Version History
 
 * 0.1
